@@ -13,15 +13,29 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 15.x
+
       - name: Run tests
         run: |
           npm i
           npm test
 
+      - uses: actions/upload-artifact@v2
+        if: always()
+        with:
+          name: allure-report
+          path: allure-results
+
   deploy-results:
     needs: api-test
     runs-on: ubuntu-latest
+    if: always()
     steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/download-artifact@v2
+        with:
+          name: allure-report
+
       - name: Test marketplace action
         uses: simple-elf/allure-report-action@master
         if: always()
