@@ -19,6 +19,7 @@ jobs:
           npm test
 
   deploy-results:
+    needs: api-test
     runs-on: ubuntu-latest
     steps:
       - name: Test marketplace action
