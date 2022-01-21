@@ -14,7 +14,9 @@ jobs:
         with:
           node-version: 15.x
       - name: Run tests
-        run: npm test
+        run: |
+          npm i
+          npm test
 
   deploy-results:
     runs-on: ubuntu-latest
