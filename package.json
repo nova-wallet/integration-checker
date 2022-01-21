@@ -1,0 +1,28 @@
+{
+  "name": "integration_checker",
+  "version": "1.0.0",
+  "description": "Project for check availability of nova-wallet integrations",
+  "scripts": {
+    "test": "mocha --reporter mocha-multi-reporters --reporter-options configFile=reporterConfig.json ./test/**/*.test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepanLav/integration_checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepanLav/integration_checker/issues"
+  },
+  "homepage": "https://github.com/stepanLav/integration_checker#readme",
+  "dependencies": {
+    "typescript": "^4.2.3",
+    "mocha": "^8.3.2",
+    "ts-node": "^9.1.1",
+    "got": "^11.8.2",
+    "@types/mocha": "*",
+    "@types/node": "^14.14.37",
+    "mocha-multi-reporters": "^1.5.1",
+    "allure-mocha": "^2.0.0-beta.14"
+  }
+}
