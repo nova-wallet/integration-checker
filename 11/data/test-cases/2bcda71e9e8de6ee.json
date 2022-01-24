@@ -1,0 +1,55 @@
+{
+  "uid" : "2bcda71e9e8de6ee",
+  "name" : "Production project - polkadot is alive",
+  "fullName" : "Production project - polkadot is alive",
+  "historyId" : "bf8f94c95b51fa67d55ea13d399f6685",
+  "time" : {
+    "start" : 1643021439615,
+    "stop" : 1643021440450,
+    "duration" : 835
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "443edbabcd93d607",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/10//#testresult/443edbabcd93d607",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643012262510,
+          "stop" : 1643012263651,
+          "duration" : 1141
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "2bcda71e9e8de6ee.json",
+  "parameterValues" : [ ]
+}

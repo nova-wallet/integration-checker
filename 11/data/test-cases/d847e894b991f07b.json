@@ -1,0 +1,55 @@
+{
+  "uid" : "d847e894b991f07b",
+  "name" : "Production project - wallet-astar is alive",
+  "fullName" : "Production project - wallet-astar is alive",
+  "historyId" : "1188029e14a561e251b04420d007cac8",
+  "time" : {
+    "start" : 1643021421682,
+    "stop" : 1643021422159,
+    "duration" : 477
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "63bd9faa9160aa0",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/10//#testresult/63bd9faa9160aa0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643012241049,
+          "stop" : 1643012241988,
+          "duration" : 939
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "d847e894b991f07b.json",
+  "parameterValues" : [ ]
+}

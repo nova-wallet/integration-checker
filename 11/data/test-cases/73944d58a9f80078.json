@@ -1,0 +1,62 @@
+{
+  "uid" : "73944d58a9f80078",
+  "name" : "Staging project - wallet-karura is alive",
+  "fullName" : "Staging project - wallet-karura is alive",
+  "historyId" : "cf42c826c27d4486a0d72a0e9c8f0649",
+  "time" : {
+    "start" : 1643021430342,
+    "stop" : 1643021430767,
+    "duration" : 425
+  },
+  "status" : "failed",
+  "statusMessage" : "Project wallet-karura is not deployed yet",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: Project wallet-karura is not deployed yet\n    at Context.<anonymous> (test/heathСheck.test.ts:91:53)\n    at step (test/heathСheck.test.ts:33:23)\n    at Object.next (test/heathСheck.test.ts:14:53)\n    at fulfilled (test/heathСheck.test.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:94:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "e6d5864bb4d53972",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/10//#testresult/e6d5864bb4d53972",
+        "status" : "failed",
+        "statusDetails" : "Project wallet-karura is not deployed yet",
+        "time" : {
+          "start" : 1643012253194,
+          "stop" : 1643012253551,
+          "duration" : 357
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "73944d58a9f80078.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,35 @@
+{
+  "uid" : "ffadda92ffb3c193",
+  "name" : "Production project - wallet-shiden is alive",
+  "fullName" : "Production project - wallet-shiden is alive",
+  "historyId" : "abadd2ed61f7e76d419e66be00c8b588",
+  "time" : {
+    "start" : 1643021446861,
+    "stop" : 1643021447453,
+    "duration" : 592
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ffadda92ffb3c193.json",
+  "parameterValues" : [ ]
+}

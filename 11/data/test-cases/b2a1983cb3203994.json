@@ -1,0 +1,55 @@
+{
+  "uid" : "b2a1983cb3203994",
+  "name" : "Production project - wallet-calamari is alive",
+  "fullName" : "Production project - wallet-calamari is alive",
+  "historyId" : "d521c48ad4c75a7ba621bbe0747f35d2",
+  "time" : {
+    "start" : 1643021426750,
+    "stop" : 1643021427500,
+    "duration" : 750
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "fffa17449074410b",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/10//#testresult/fffa17449074410b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643012248516,
+          "stop" : 1643012249435,
+          "duration" : 919
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b2a1983cb3203994.json",
+  "parameterValues" : [ ]
+}

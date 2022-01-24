@@ -1,0 +1,62 @@
+{
+  "uid" : "8d5264b93b2fa4ac",
+  "name" : "Staging project - wallet-calamari is alive",
+  "fullName" : "Staging project - wallet-calamari is alive",
+  "historyId" : "73069c0f91dce7d70988a3bcba03f7ff",
+  "time" : {
+    "start" : 1643021427501,
+    "stop" : 1643021427965,
+    "duration" : 464
+  },
+  "status" : "failed",
+  "statusMessage" : "Project wallet-calamari is not deployed yet",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: Project wallet-calamari is not deployed yet\n    at Context.<anonymous> (test/heathСheck.test.ts:91:53)\n    at step (test/heathСheck.test.ts:33:23)\n    at Object.next (test/heathСheck.test.ts:14:53)\n    at fulfilled (test/heathСheck.test.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:94:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "6713b6e7793d9332",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/10//#testresult/6713b6e7793d9332",
+        "status" : "failed",
+        "statusDetails" : "Project wallet-calamari is not deployed yet",
+        "time" : {
+          "start" : 1643012249436,
+          "stop" : 1643012249784,
+          "duration" : 348
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "8d5264b93b2fa4ac.json",
+  "parameterValues" : [ ]
+}

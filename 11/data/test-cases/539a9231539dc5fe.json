@@ -1,0 +1,55 @@
+{
+  "uid" : "539a9231539dc5fe",
+  "name" : "Production project - wallet-moonriver is alive",
+  "fullName" : "Production project - wallet-moonriver is alive",
+  "historyId" : "68e3868958ab328346639af343b069c2",
+  "time" : {
+    "start" : 1643021435638,
+    "stop" : 1643021436007,
+    "duration" : 369
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "8b11d86c42912a4b",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/10//#testresult/8b11d86c42912a4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643012258608,
+          "stop" : 1643012259108,
+          "duration" : 500
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "539a9231539dc5fe.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "a548a81be958d30b",
+  "name" : "Production project - wallet-moonbeam is alive",
+  "fullName" : "Production project - wallet-moonbeam is alive",
+  "historyId" : "864a42bf24ea2877133a95b1edc12116",
+  "time" : {
+    "start" : 1643021434227,
+    "stop" : 1643021434963,
+    "duration" : 736
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "d1160a75c49e75a3",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/10//#testresult/d1160a75c49e75a3",
+        "status" : "failed",
+        "statusDetails" : "Indexer for wallet-moonbeam network is up",
+        "time" : {
+          "start" : 1643012257512,
+          "stop" : 1643012258091,
+          "duration" : 579
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a548a81be958d30b.json",
+  "parameterValues" : [ ]
+}
