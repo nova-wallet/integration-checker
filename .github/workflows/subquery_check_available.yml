@@ -33,7 +33,7 @@ jobs:
       - uses: actions/download-artifact@v2
         with:
           name: allure-report
-          path: /allure-results
+          path: ./allure-results
 
       - name: Get Allure history
         uses: actions/checkout@v2
