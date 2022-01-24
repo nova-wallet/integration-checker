@@ -42,6 +42,10 @@ jobs:
           ref: gh-pages
           path: gh-pages
 
+      - name: Debug
+        run: |
+          ls -R
+
       - name: Allure Report action from marketplace
         uses: simple-elf/allure-report-action@master
         if: always()
