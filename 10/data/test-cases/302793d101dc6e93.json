@@ -1,0 +1,41 @@
+{
+  "uid" : "302793d101dc6e93",
+  "name" : "Production project - wallet-basilisk is alive",
+  "fullName" : "Production project - wallet-basilisk is alive",
+  "historyId" : "91e76400f4905c2140e33d0b251aad26",
+  "time" : {
+    "start" : 1643012242449,
+    "stop" : 1643012242898,
+    "duration" : 449
+  },
+  "status" : "failed",
+  "statusMessage" : "Project wallet-basilisk is not deployed yet",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: Project wallet-basilisk is not deployed yet\n    at Context.<anonymous> (test/heathСheck.test.ts:64:53)\n    at step (test/heathСheck.test.ts:33:23)\n    at Object.next (test/heathСheck.test.ts:14:53)\n    at fulfilled (test/heathСheck.test.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:94:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "302793d101dc6e93.json",
+  "parameterValues" : [ ]
+}

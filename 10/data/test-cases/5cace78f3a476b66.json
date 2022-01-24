@@ -1,0 +1,35 @@
+{
+  "uid" : "5cace78f3a476b66",
+  "name" : "Production project - wallet-quartz is alive",
+  "fullName" : "Production project - wallet-quartz is alive",
+  "historyId" : "00172b46410d2e02827d050286b8cd21",
+  "time" : {
+    "start" : 1643012264922,
+    "stop" : 1643012265454,
+    "duration" : 532
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5cace78f3a476b66.json",
+  "parameterValues" : [ ]
+}

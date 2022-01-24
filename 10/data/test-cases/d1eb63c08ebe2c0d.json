@@ -1,0 +1,41 @@
+{
+  "uid" : "d1eb63c08ebe2c0d",
+  "name" : "Staging project - wallet-kilt is alive",
+  "fullName" : "Staging project - wallet-kilt is alive",
+  "historyId" : "ce485dbfa4d3b7d27d41cf4fd4544b8c",
+  "time" : {
+    "start" : 1643012255375,
+    "stop" : 1643012256173,
+    "duration" : 798
+  },
+  "status" : "failed",
+  "statusMessage" : "Indexer for wallet-kilt network is up",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: Indexer for wallet-kilt network is up\n    at Context.<anonymous> (test/heathСheck.test.ts:87:53)\n    at step (test/heathСheck.test.ts:33:23)\n    at Object.next (test/heathСheck.test.ts:14:53)\n    at fulfilled (test/heathСheck.test.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:94:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d1eb63c08ebe2c0d.json",
+  "parameterValues" : [ ]
+}

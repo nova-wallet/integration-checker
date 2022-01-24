@@ -1,0 +1,35 @@
+{
+  "uid" : "6caa8dbcf2cb31de",
+  "name" : "Production project - wallet-clover is alive",
+  "fullName" : "Production project - wallet-clover is alive",
+  "historyId" : "6c147cd4418d385cc21bdff959f9f40d",
+  "time" : {
+    "start" : 1643012249785,
+    "stop" : 1643012250848,
+    "duration" : 1063
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6caa8dbcf2cb31de.json",
+  "parameterValues" : [ ]
+}

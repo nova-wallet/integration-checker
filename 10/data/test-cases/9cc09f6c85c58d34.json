@@ -1,0 +1,41 @@
+{
+  "uid" : "9cc09f6c85c58d34",
+  "name" : "Staging project - wallet-basilisk is alive",
+  "fullName" : "Staging project - wallet-basilisk is alive",
+  "historyId" : "94000a608226e3e54f9fd86869cac4fc",
+  "time" : {
+    "start" : 1643012242898,
+    "stop" : 1643012244333,
+    "duration" : 1435
+  },
+  "status" : "failed",
+  "statusMessage" : "Indexer for wallet-basilisk network is up",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: Indexer for wallet-basilisk network is up\n    at Context.<anonymous> (test/heathСheck.test.ts:87:53)\n    at step (test/heathСheck.test.ts:33:23)\n    at Object.next (test/heathСheck.test.ts:14:53)\n    at fulfilled (test/heathСheck.test.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:94:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "9cc09f6c85c58d34.json",
+  "parameterValues" : [ ]
+}

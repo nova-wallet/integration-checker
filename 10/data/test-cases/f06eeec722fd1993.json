@@ -1,0 +1,35 @@
+{
+  "uid" : "f06eeec722fd1993",
+  "name" : "Production project - wallet-statemint is alive",
+  "fullName" : "Production project - wallet-statemint is alive",
+  "historyId" : "f1aafd71c7d28eb87b5ad2105d49de73",
+  "time" : {
+    "start" : 1643012267956,
+    "stop" : 1643012268861,
+    "duration" : 905
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f06eeec722fd1993.json",
+  "parameterValues" : [ ]
+}

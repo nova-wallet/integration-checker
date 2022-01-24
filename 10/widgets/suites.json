@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "7f41092857877e71c67280415dce24ee",
+    "name" : "Subquery health check",
+    "statistic" : {
+      "failed" : 25,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 19,
+      "unknown" : 0,
+      "total" : 44
+    }
+  } ]
+}

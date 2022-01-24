@@ -1,0 +1,41 @@
+{
+  "uid" : "bde3f57a5088fcd4",
+  "name" : "Staging project - wallet-moonbeam is alive",
+  "fullName" : "Staging project - wallet-moonbeam is alive",
+  "historyId" : "30fda6dba9cd939b51752b0ec84d9ffd",
+  "time" : {
+    "start" : 1643012258092,
+    "stop" : 1643012258606,
+    "duration" : 514
+  },
+  "status" : "failed",
+  "statusMessage" : "Indexer for wallet-moonbeam network is up",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: Indexer for wallet-moonbeam network is up\n    at Context.<anonymous> (test/heathСheck.test.ts:87:53)\n    at step (test/heathСheck.test.ts:33:23)\n    at Object.next (test/heathСheck.test.ts:14:53)\n    at fulfilled (test/heathСheck.test.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:94:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "bde3f57a5088fcd4.json",
+  "parameterValues" : [ ]
+}

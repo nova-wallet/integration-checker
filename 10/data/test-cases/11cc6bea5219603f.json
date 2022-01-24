@@ -1,0 +1,35 @@
+{
+  "uid" : "11cc6bea5219603f",
+  "name" : "Production project - kusama is alive",
+  "fullName" : "Production project - kusama is alive",
+  "historyId" : "93c61a4d286dddf9c2eb5d3b336c3065",
+  "time" : {
+    "start" : 1643012256173,
+    "stop" : 1643012256879,
+    "duration" : 706
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11cc6bea5219603f.json",
+  "parameterValues" : [ ]
+}

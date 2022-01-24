@@ -1,0 +1,35 @@
+{
+  "uid" : "8b11d86c42912a4b",
+  "name" : "Production project - wallet-moonriver is alive",
+  "fullName" : "Production project - wallet-moonriver is alive",
+  "historyId" : "68e3868958ab328346639af343b069c2",
+  "time" : {
+    "start" : 1643012258608,
+    "stop" : 1643012259108,
+    "duration" : 500
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b11d86c42912a4b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,35 @@
+{
+  "uid" : "4e2fc2724cb8ced2",
+  "name" : "Production project - wallet-parallel is alive",
+  "fullName" : "Production project - wallet-parallel is alive",
+  "historyId" : "b8f06105c87261d229409c8d9cacd5fa",
+  "time" : {
+    "start" : 1643012259827,
+    "stop" : 1643012260438,
+    "duration" : 611
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e2fc2724cb8ced2.json",
+  "parameterValues" : [ ]
+}

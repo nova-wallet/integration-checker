@@ -1,0 +1,35 @@
+{
+  "uid" : "e139d804415d05e3",
+  "name" : "Production project - wallet-acala is alive",
+  "fullName" : "Production project - wallet-acala is alive",
+  "historyId" : "400b7eae64d9e28e08581bee9c272723",
+  "time" : {
+    "start" : 1643012238820,
+    "stop" : 1643012239665,
+    "duration" : 845
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e139d804415d05e3.json",
+  "parameterValues" : [ ]
+}

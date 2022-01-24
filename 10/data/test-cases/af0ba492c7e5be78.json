@@ -1,0 +1,35 @@
+{
+  "uid" : "af0ba492c7e5be78",
+  "name" : "Production project - wallet-bit-country is alive",
+  "fullName" : "Production project - wallet-bit-country is alive",
+  "historyId" : "21893a81af5250b47c392a47b9c55604",
+  "time" : {
+    "start" : 1643012246459,
+    "stop" : 1643012248062,
+    "duration" : 1603
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af0ba492c7e5be78.json",
+  "parameterValues" : [ ]
+}

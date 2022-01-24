@@ -1,0 +1,35 @@
+{
+  "uid" : "bcc77d054d7ab621",
+  "name" : "Production project - wallet-karura is alive",
+  "fullName" : "Production project - wallet-karura is alive",
+  "historyId" : "9a377eefe418369ae3165043755f52a9",
+  "time" : {
+    "start" : 1643012252326,
+    "stop" : 1643012253194,
+    "duration" : 868
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bcc77d054d7ab621.json",
+  "parameterValues" : [ ]
+}
