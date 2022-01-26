@@ -1,0 +1,72 @@
+{
+  "uid" : "8cf62a84575d0ce9",
+  "name" : "Staging project - wallet-shiden is alive",
+  "fullName" : "Staging project - wallet-shiden is alive",
+  "historyId" : "1a6d43dfb7b2a0d5b02afee601313e9b",
+  "time" : {
+    "start" : 1643217672186,
+    "stop" : 1643217672662,
+    "duration" : 476
+  },
+  "status" : "failed",
+  "statusMessage" : "Project wallet-shiden is not deployed yet",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: Project wallet-shiden is not deployed yet\n    at Context.<anonymous> (test/heathСheck.test.ts:91:53)\n    at step (test/heathСheck.test.ts:33:23)\n    at Object.next (test/heathСheck.test.ts:14:53)\n    at fulfilled (test/heathСheck.test.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:94:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 3,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "fcf879c793c641f3",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/12//#testresult/fcf879c793c641f3",
+        "status" : "failed",
+        "statusDetails" : "Project wallet-shiden is not deployed yet",
+        "time" : {
+          "start" : 1643110396755,
+          "stop" : 1643110397401,
+          "duration" : 646
+        }
+      }, {
+        "uid" : "fbffe826979819b5",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/11//#testresult/fbffe826979819b5",
+        "status" : "failed",
+        "statusDetails" : "Project wallet-shiden is not deployed yet",
+        "time" : {
+          "start" : 1643021447453,
+          "stop" : 1643021447907,
+          "duration" : 454
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "8cf62a84575d0ce9.json",
+  "parameterValues" : [ ]
+}

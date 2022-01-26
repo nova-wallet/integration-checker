@@ -1,0 +1,74 @@
+{
+  "uid" : "fd30223db805446b",
+  "name" : "Production project - wallet-moonbeam is alive",
+  "fullName" : "Production project - wallet-moonbeam is alive",
+  "historyId" : "864a42bf24ea2877133a95b1edc12116",
+  "time" : {
+    "start" : 1643217662250,
+    "stop" : 1643217662647,
+    "duration" : 397
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "42810efe46c95286",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/12//#testresult/42810efe46c95286",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643110383265,
+          "stop" : 1643110383996,
+          "duration" : 731
+        }
+      }, {
+        "uid" : "a548a81be958d30b",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/11//#testresult/a548a81be958d30b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643021434227,
+          "stop" : 1643021434963,
+          "duration" : 736
+        }
+      }, {
+        "uid" : "d1160a75c49e75a3",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/10//#testresult/d1160a75c49e75a3",
+        "status" : "failed",
+        "statusDetails" : "Indexer for wallet-moonbeam network is up",
+        "time" : {
+          "start" : 1643012257512,
+          "stop" : 1643012258091,
+          "duration" : 579
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "fd30223db805446b.json",
+  "parameterValues" : [ ]
+}
