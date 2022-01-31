@@ -1,0 +1,100 @@
+{
+  "uid" : "595a36fc6aaa3c81",
+  "name" : "Production project - wallet-calamari is alive",
+  "fullName" : "Production project - wallet-calamari is alive",
+  "historyId" : "d521c48ad4c75a7ba621bbe0747f35d2",
+  "time" : {
+    "start" : 1643624637575,
+    "stop" : 1643624638413,
+    "duration" : 838
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "f655b915457675ce",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/15//#testresult/f655b915457675ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643285014530,
+          "stop" : 1643285015164,
+          "duration" : 634
+        }
+      }, {
+        "uid" : "d0fde9d27d89becb",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/14//#testresult/d0fde9d27d89becb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643218508060,
+          "stop" : 1643218509685,
+          "duration" : 1625
+        }
+      }, {
+        "uid" : "789e94f29c746aac",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/13//#testresult/789e94f29c746aac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643217654509,
+          "stop" : 1643217655122,
+          "duration" : 613
+        }
+      }, {
+        "uid" : "ff7b02158eed7dd5",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/12//#testresult/ff7b02158eed7dd5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643110374391,
+          "stop" : 1643110375150,
+          "duration" : 759
+        }
+      }, {
+        "uid" : "b2a1983cb3203994",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/11//#testresult/b2a1983cb3203994",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643021426750,
+          "stop" : 1643021427500,
+          "duration" : 750
+        }
+      }, {
+        "uid" : "fffa17449074410b",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/10//#testresult/fffa17449074410b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643012248516,
+          "stop" : 1643012249435,
+          "duration" : 919
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "595a36fc6aaa3c81.json",
+  "parameterValues" : [ ]
+}
