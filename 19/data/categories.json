@@ -1,0 +1,171 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Project wallet-basilisk is not deployed yet",
+      "children" : [ {
+        "name" : "Staging project - wallet-basilisk is alive",
+        "uid" : "670c5fd45c483be1",
+        "parentUid" : "b473cc757b99a42c9bdc9a4d9f383911",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644222295187,
+          "stop" : 1644222295649,
+          "duration" : 462
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b473cc757b99a42c9bdc9a4d9f383911"
+    }, {
+      "name" : "Indexer for edgeware network is up",
+      "children" : [ {
+        "name" : "Production project - edgeware is alive",
+        "uid" : "eefd0bf6b8c46073",
+        "parentUid" : "68a4887b7e9b2bd4ad08d6226671790b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644222301157,
+          "stop" : 1644222301901,
+          "duration" : 744
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Staging project - edgeware is alive",
+        "uid" : "87b4e3b5e12b3b8e",
+        "parentUid" : "68a4887b7e9b2bd4ad08d6226671790b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644222301901,
+          "stop" : 1644222302441,
+          "duration" : 540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "68a4887b7e9b2bd4ad08d6226671790b"
+    }, {
+      "name" : "Indexer for wallet-khala network is up",
+      "children" : [ {
+        "name" : "Production project - wallet-khala is alive",
+        "uid" : "b3a26d9433a569da",
+        "parentUid" : "836aeb0f3f020ced3c9e19c91012cea5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644222303591,
+          "stop" : 1644222303996,
+          "duration" : 405
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Staging project - wallet-khala is alive",
+        "uid" : "5fa61d164b2a22df",
+        "parentUid" : "836aeb0f3f020ced3c9e19c91012cea5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644222303996,
+          "stop" : 1644222304452,
+          "duration" : 456
+        },
+        "flaky" : true,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "836aeb0f3f020ced3c9e19c91012cea5"
+    }, {
+      "name" : "Project wallet-kilt is not deployed yet",
+      "children" : [ {
+        "name" : "Staging project - wallet-kilt is alive",
+        "uid" : "23db9037d4d79654",
+        "parentUid" : "ffd1d990c4d57ab1ed8e889fc0b5735a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644222304914,
+          "stop" : 1644222305352,
+          "duration" : 438
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ffd1d990c4d57ab1ed8e889fc0b5735a"
+    }, {
+      "name" : "Indexer for kusama network is up",
+      "children" : [ {
+        "name" : "Staging project - kusama is alive",
+        "uid" : "a5fc4f415d304206",
+        "parentUid" : "669249fabeba2f68c18a4ae3d6e6d07b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644222305801,
+          "stop" : 1644222306248,
+          "duration" : 447
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "669249fabeba2f68c18a4ae3d6e6d07b"
+    }, {
+      "name" : "Indexer for wallet-moonbeam network is up",
+      "children" : [ {
+        "name" : "Staging project - wallet-moonbeam is alive",
+        "uid" : "a25f50e18ca11134",
+        "parentUid" : "38ce3f7947cf5730f8500384e043f1d6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644222306685,
+          "stop" : 1644222307124,
+          "duration" : 439
+        },
+        "flaky" : true,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "38ce3f7947cf5730f8500384e043f1d6"
+    }, {
+      "name" : "Indexer for polkadot network is up",
+      "children" : [ {
+        "name" : "Staging project - polkadot is alive",
+        "uid" : "8b3f061983a29137",
+        "parentUid" : "2c451e3626e06ddd473aafec37a52a89",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644222310825,
+          "stop" : 1644222311353,
+          "duration" : 528
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2c451e3626e06ddd473aafec37a52a89"
+    }, {
+      "name" : "Indexer for westend network is up",
+      "children" : [ {
+        "name" : "Staging project - westend is alive",
+        "uid" : "73c679110886be3d",
+        "parentUid" : "647c08789cdad507fe15669624f27d50",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644222315940,
+          "stop" : 1644222316641,
+          "duration" : 701
+        },
+        "flaky" : true,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "647c08789cdad507fe15669624f27d50"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
