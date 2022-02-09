@@ -1,0 +1,141 @@
+{
+  "uid" : "25d6c32823f64b78",
+  "name" : "Staging project - wallet-statemine is alive",
+  "fullName" : "Staging project - wallet-statemine is alive",
+  "historyId" : "e9c88ac754120d4781f98dfa1ff50640",
+  "time" : {
+    "start" : 1644402357879,
+    "stop" : 1644402358473,
+    "duration" : 594
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 5,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 6,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "a20d337f7e221549",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/19//#testresult/a20d337f7e221549",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644222312895,
+          "stop" : 1644222313480,
+          "duration" : 585
+        }
+      }, {
+        "uid" : "62424172961cdb11",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/18//#testresult/62424172961cdb11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643874995553,
+          "stop" : 1643874996309,
+          "duration" : 756
+        }
+      }, {
+        "uid" : "bd70a5afa66d458e",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/17//#testresult/bd70a5afa66d458e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643800312762,
+          "stop" : 1643800313193,
+          "duration" : 431
+        }
+      }, {
+        "uid" : "4a77e3302bf48a86",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/16//#testresult/4a77e3302bf48a86",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643624654808,
+          "stop" : 1643624655269,
+          "duration" : 461
+        }
+      }, {
+        "uid" : "f8b9857f813f910c",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/15//#testresult/f8b9857f813f910c",
+        "status" : "failed",
+        "statusDetails" : "Indexer for wallet-statemine network is up",
+        "time" : {
+          "start" : 1643285032369,
+          "stop" : 1643285032967,
+          "duration" : 598
+        }
+      }, {
+        "uid" : "2dae0a8071e4ca22",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/14//#testresult/2dae0a8071e4ca22",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643218526592,
+          "stop" : 1643218527029,
+          "duration" : 437
+        }
+      }, {
+        "uid" : "122487145119f32f",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/13//#testresult/122487145119f32f",
+        "status" : "failed",
+        "statusDetails" : "Project wallet-statemine is not deployed yet",
+        "time" : {
+          "start" : 1643217667800,
+          "stop" : 1643217668240,
+          "duration" : 440
+        }
+      }, {
+        "uid" : "8613ab6be1e4ef43",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/12//#testresult/8613ab6be1e4ef43",
+        "status" : "failed",
+        "statusDetails" : "Project wallet-statemine is not deployed yet",
+        "time" : {
+          "start" : 1643110392858,
+          "stop" : 1643110393331,
+          "duration" : 473
+        }
+      }, {
+        "uid" : "a2ccd0fb0f239e89",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/11//#testresult/a2ccd0fb0f239e89",
+        "status" : "failed",
+        "statusDetails" : "Project wallet-statemine is not deployed yet",
+        "time" : {
+          "start" : 1643021443321,
+          "stop" : 1643021443732,
+          "duration" : 411
+        }
+      }, {
+        "uid" : "eb692a424155318a",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/10//#testresult/eb692a424155318a",
+        "status" : "failed",
+        "statusDetails" : "Project wallet-statemine is not deployed yet",
+        "time" : {
+          "start" : 1643012267582,
+          "stop" : 1643012267955,
+          "duration" : 373
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "25d6c32823f64b78.json",
+  "parameterValues" : [ ]
+}

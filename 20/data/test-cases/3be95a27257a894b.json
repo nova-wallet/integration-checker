@@ -1,0 +1,148 @@
+{
+  "uid" : "3be95a27257a894b",
+  "name" : "Production project - wallet-acala is alive",
+  "fullName" : "Production project - wallet-acala is alive",
+  "historyId" : "400b7eae64d9e28e08581bee9c272723",
+  "time" : {
+    "start" : 1644402330880,
+    "stop" : 1644402331966,
+    "duration" : 1086
+  },
+  "status" : "failed",
+  "statusMessage" : "Indexer for wallet-acala network is up",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: Indexer for wallet-acala network is up\n    at Context.<anonymous> (test/heathСheck.test.ts:60:53)\n    at step (test/heathСheck.test.ts:33:23)\n    at Object.next (test/heathСheck.test.ts:14:53)\n    at fulfilled (test/heathСheck.test.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:94:5)",
+  "flaky" : true,
+  "newFailed" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 7,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "f3176b66176a61f5",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/19//#testresult/f3176b66176a61f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644222291051,
+          "stop" : 1644222291744,
+          "duration" : 693
+        }
+      }, {
+        "uid" : "c3e33cf63ec7109",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/18//#testresult/c3e33cf63ec7109",
+        "status" : "failed",
+        "statusDetails" : "Indexer for wallet-acala network is up",
+        "time" : {
+          "start" : 1643874970319,
+          "stop" : 1643874971627,
+          "duration" : 1308
+        }
+      }, {
+        "uid" : "1a3b8286c4161226",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/17//#testresult/1a3b8286c4161226",
+        "status" : "failed",
+        "statusDetails" : "Indexer for wallet-acala network is up",
+        "time" : {
+          "start" : 1643800281202,
+          "stop" : 1643800283673,
+          "duration" : 2471
+        }
+      }, {
+        "uid" : "355ae22bead7d6d3",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/16//#testresult/355ae22bead7d6d3",
+        "status" : "failed",
+        "statusDetails" : "Indexer for wallet-acala network is up",
+        "time" : {
+          "start" : 1643624630149,
+          "stop" : 1643624631324,
+          "duration" : 1175
+        }
+      }, {
+        "uid" : "d8afd1a2725cfe05",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/15//#testresult/d8afd1a2725cfe05",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643285004929,
+          "stop" : 1643285005461,
+          "duration" : 532
+        }
+      }, {
+        "uid" : "a6a62d6172a97f70",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/14//#testresult/a6a62d6172a97f70",
+        "status" : "failed",
+        "statusDetails" : "Indexer for wallet-acala network is up",
+        "time" : {
+          "start" : 1643218498950,
+          "stop" : 1643218500848,
+          "duration" : 1898
+        }
+      }, {
+        "uid" : "fffb509a7a090aae",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/13//#testresult/fffb509a7a090aae",
+        "status" : "failed",
+        "statusDetails" : "Indexer for wallet-acala network is up",
+        "time" : {
+          "start" : 1643217647009,
+          "stop" : 1643217648017,
+          "duration" : 1008
+        }
+      }, {
+        "uid" : "b16ff6242a788405",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/12//#testresult/b16ff6242a788405",
+        "status" : "failed",
+        "statusDetails" : "Indexer for wallet-acala network is up",
+        "time" : {
+          "start" : 1643110363865,
+          "stop" : 1643110364770,
+          "duration" : 905
+        }
+      }, {
+        "uid" : "57b9da6539067971",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/11//#testresult/57b9da6539067971",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643021419687,
+          "stop" : 1643021420317,
+          "duration" : 630
+        }
+      }, {
+        "uid" : "e139d804415d05e3",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/10//#testresult/e139d804415d05e3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643012238820,
+          "stop" : 1643012239665,
+          "duration" : 845
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3be95a27257a894b.json",
+  "parameterValues" : [ ]
+}
