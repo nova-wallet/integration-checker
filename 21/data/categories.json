@@ -1,0 +1,171 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Indexer for wallet-acala network is up",
+      "children" : [ {
+        "name" : "Production project - wallet-acala is alive",
+        "uid" : "7a0b931b70c09ab5",
+        "parentUid" : "4f6fddc9281ad23f2caa0f5a21b28e32",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644914265401,
+          "stop" : 1644914266389,
+          "duration" : 988
+        },
+        "flaky" : true,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Staging project - wallet-acala is alive",
+        "uid" : "aba62824101b4993",
+        "parentUid" : "4f6fddc9281ad23f2caa0f5a21b28e32",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644914266390,
+          "stop" : 1644914267678,
+          "duration" : 1288
+        },
+        "flaky" : true,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4f6fddc9281ad23f2caa0f5a21b28e32"
+    }, {
+      "name" : "Project wallet-basilisk is not deployed yet",
+      "children" : [ {
+        "name" : "Staging project - wallet-basilisk is alive",
+        "uid" : "50b5d4640efcc6e",
+        "parentUid" : "b473cc757b99a42c9bdc9a4d9f383911",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644914272080,
+          "stop" : 1644914272582,
+          "duration" : 502
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b473cc757b99a42c9bdc9a4d9f383911"
+    }, {
+      "name" : "Indexer for edgeware network is up",
+      "children" : [ {
+        "name" : "Production project - edgeware is alive",
+        "uid" : "e89b70329b3e70b8",
+        "parentUid" : "68a4887b7e9b2bd4ad08d6226671790b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644914279924,
+          "stop" : 1644914280794,
+          "duration" : 870
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "68a4887b7e9b2bd4ad08d6226671790b"
+    }, {
+      "name" : "Indexer for wallet-karura network is up",
+      "children" : [ {
+        "name" : "Staging project - wallet-karura is alive",
+        "uid" : "e970b14534680a36",
+        "parentUid" : "fc85c00c3ac229f6ad6f53198009073a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644914282442,
+          "stop" : 1644914283199,
+          "duration" : 757
+        },
+        "flaky" : true,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fc85c00c3ac229f6ad6f53198009073a"
+    }, {
+      "name" : "Indexer for wallet-khala network is up",
+      "children" : [ {
+        "name" : "Production project - wallet-khala is alive",
+        "uid" : "afdbf7468590c8de",
+        "parentUid" : "836aeb0f3f020ced3c9e19c91012cea5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644914283200,
+          "stop" : 1644914284136,
+          "duration" : 936
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Staging project - wallet-khala is alive",
+        "uid" : "6e9ef972d6ebfb7a",
+        "parentUid" : "836aeb0f3f020ced3c9e19c91012cea5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644914284136,
+          "stop" : 1644914285284,
+          "duration" : 1148
+        },
+        "flaky" : true,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "836aeb0f3f020ced3c9e19c91012cea5"
+    }, {
+      "name" : "Project wallet-kilt is not deployed yet",
+      "children" : [ {
+        "name" : "Staging project - wallet-kilt is alive",
+        "uid" : "8189eb5b9b00b25d",
+        "parentUid" : "ffd1d990c4d57ab1ed8e889fc0b5735a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644914285969,
+          "stop" : 1644914286656,
+          "duration" : 687
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ffd1d990c4d57ab1ed8e889fc0b5735a"
+    }, {
+      "name" : "Indexer for wallet-moonbeam network is up",
+      "children" : [ {
+        "name" : "Staging project - wallet-moonbeam is alive",
+        "uid" : "8266341bdb752d3e",
+        "parentUid" : "38ce3f7947cf5730f8500384e043f1d6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644914288818,
+          "stop" : 1644914289779,
+          "duration" : 961
+        },
+        "flaky" : true,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "38ce3f7947cf5730f8500384e043f1d6"
+    }, {
+      "name" : "Indexer for polkadot network is up",
+      "children" : [ {
+        "name" : "Staging project - polkadot is alive",
+        "uid" : "fae236831dad57c7",
+        "parentUid" : "2c451e3626e06ddd473aafec37a52a89",
+        "status" : "failed",
+        "time" : {
+          "start" : 1644914294931,
+          "stop" : 1644914295617,
+          "duration" : 686
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2c451e3626e06ddd473aafec37a52a89"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

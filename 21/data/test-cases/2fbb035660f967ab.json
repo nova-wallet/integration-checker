@@ -1,0 +1,149 @@
+{
+  "uid" : "2fbb035660f967ab",
+  "name" : "Staging project - wallet-clover is alive",
+  "fullName" : "Staging project - wallet-clover is alive",
+  "historyId" : "c29134423c786c21ff057c8f8bd3f296",
+  "time" : {
+    "start" : 1644914278972,
+    "stop" : 1644914279922,
+    "duration" : 950
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Subquery health check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 4,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 12
+      },
+      "items" : [ {
+        "uid" : "83c0b336a488776e",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/20//#testresult/83c0b336a488776e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644402341541,
+          "stop" : 1644402342166,
+          "duration" : 625
+        }
+      }, {
+        "uid" : "aee31488339e8ffd",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/19//#testresult/aee31488339e8ffd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644222300524,
+          "stop" : 1644222301155,
+          "duration" : 631
+        }
+      }, {
+        "uid" : "cdae506337f31138",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/18//#testresult/cdae506337f31138",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643874980620,
+          "stop" : 1643874981448,
+          "duration" : 828
+        }
+      }, {
+        "uid" : "3859ba005bff8454",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/17//#testresult/3859ba005bff8454",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643800296227,
+          "stop" : 1643800297119,
+          "duration" : 892
+        }
+      }, {
+        "uid" : "543a66424793c140",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/16//#testresult/543a66424793c140",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643624640591,
+          "stop" : 1643624640972,
+          "duration" : 381
+        }
+      }, {
+        "uid" : "fb1e14bdab6000b8",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/15//#testresult/fb1e14bdab6000b8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643285016194,
+          "stop" : 1643285016642,
+          "duration" : 448
+        }
+      }, {
+        "uid" : "8ebcfb457c4c3d66",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/14//#testresult/8ebcfb457c4c3d66",
+        "status" : "passed",
+        "time" : {
+          "start" : 1643218511421,
+          "stop" : 1643218511885,
+          "duration" : 464
+        }
+      }, {
+        "uid" : "d2c5e0fa1971934e",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/13//#testresult/d2c5e0fa1971934e",
+        "status" : "failed",
+        "statusDetails" : "Project wallet-clover is not deployed yet",
+        "time" : {
+          "start" : 1643217656054,
+          "stop" : 1643217656377,
+          "duration" : 323
+        }
+      }, {
+        "uid" : "dd1db7cff2a3e945",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/12//#testresult/dd1db7cff2a3e945",
+        "status" : "failed",
+        "statusDetails" : "Project wallet-clover is not deployed yet",
+        "time" : {
+          "start" : 1643110376569,
+          "stop" : 1643110377063,
+          "duration" : 494
+        }
+      }, {
+        "uid" : "e44523e8617d905",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/11//#testresult/e44523e8617d905",
+        "status" : "failed",
+        "statusDetails" : "Project wallet-clover is not deployed yet",
+        "time" : {
+          "start" : 1643021428529,
+          "stop" : 1643021428947,
+          "duration" : 418
+        }
+      }, {
+        "uid" : "9f1bcc4e97f621c2",
+        "reportUrl" : "https://nova-wallet.github.io/integration-checker/10//#testresult/9f1bcc4e97f621c2",
+        "status" : "failed",
+        "statusDetails" : "Project wallet-clover is not deployed yet",
+        "time" : {
+          "start" : 1643012250848,
+          "stop" : 1643012251353,
+          "duration" : 505
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "2fbb035660f967ab.json",
+  "parameterValues" : [ ]
+}
